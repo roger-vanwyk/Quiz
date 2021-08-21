@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chess Openings</string>
+    <string name="question_1">1. Select the opening that does not belong?</string>
+    <string name="question_2">2. Select the Caro-Kann defence?</string>
+    <string name="question_3">3. Select all variations of the Sicilian defence.</string>
+    <string name="question_4">4. Name this opening?</string>
+    <string name="question_5">5. Select the Reti opening?</string>
+    <string name="question_6">6. Name this opening?</string>
+    <string name="question_7">7. Name this opening:</string>
+    <string name="submit">Submit</string>
+    <string name="todo">TODO</string>
+</resources>
